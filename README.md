@@ -1,4 +1,4 @@
-#azure-resource-office-365
+# azure-resource-office-365
 Enhances the [azure-active-directory](https://github.com/djluck/azure-active-directory) & [accounts-azure-active-directory](https://github.com/djluck/accounts-azure-active-directory) packages, allowing users to authorize themselves against the office 365 rest APIs.
 
 ### Configuration
